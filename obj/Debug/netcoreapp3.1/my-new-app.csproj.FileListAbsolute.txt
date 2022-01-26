@@ -1,0 +1,7 @@
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\WinFormsApp.frmMain.resources
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.csproj.GenerateResource.cache
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.AssemblyInfoInputs.cache
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.AssemblyInfo.cs
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.csproj.CoreCompileInputs.cache
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.RazorAssemblyInfo.cache
+C:\Users\Ciro\Desktop\react.net\my-new-app\obj\Debug\netcoreapp3.1\my-new-app.RazorAssemblyInfo.cs
